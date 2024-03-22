@@ -1,1 +1,10 @@
 # Community
+- [Community](#community)
+  - [About](#about)
+  - [Join the Community](####)
+    - [Forums](#forums)
+      - [Titan Community Forum](###)
+    - [Chat](#chat)
+      - [Titan TG](###)
+      - [Titan DC](###)
+  - [License](#license)
