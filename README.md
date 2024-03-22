@@ -1,7 +1,5 @@
 # Community
-The TitanNetwork Community is a hub for developers, provider, Client and Web3 enthusiasts. Welcome to join our vibrant community today.
-
-
+The Titan Network Community serves as a central hub for developers, resource providers, and enthusiasts of Web3 technology. We warmly welcome you to become a part of our dynamic and thriving community.
 
   - [Join the Community](https://github.com/Titannet-dao/Community/discussions)
 
