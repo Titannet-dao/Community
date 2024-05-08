@@ -9,6 +9,6 @@ The Titan Network Community serves as a central hub for developers, resource pro
 
 - ✈️ [Telegram](https://t.me/titannet_dao)
 
-- 🎃 [Discord]((https://discord.gg/titannet))
+- 🎃 [Discord](https://discord.gg/titannet)
 
 - <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✖️</font></font> [Twitter](https://twitter.com/Titannet_dao)
